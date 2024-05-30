@@ -7,7 +7,6 @@ Je suis a la recherche d'une alternance pour septembre 2024 dans le cadre d'une 
 
 ## Connect
 
-<h2>Connect with me:</h2>
 <p >
 <a href="https://linkedin.com/in/fabien-laquerriere" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabien-laquerriere" height="30" width="40" />
