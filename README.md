@@ -2,8 +2,8 @@
 
 ## Introduction
 
-Bonjour et bienvenue sur mon Github!Je m'appelle Fabien et je suis un développeur full-stack junior, utilisant principalement du JS. Je suis actuellement un bootcamp dev web avec la [Wild Code School](https://www.wildcodeschool.com/fr-FR).
-Je suis à la recherche d'une alternance pour septembre 2024 dans le cadre d'une certification développeur avance JS ou Java. Actuellement en Normandie, acceptant des offres full remote. Je ne suis pas fermé à la possibilité de démenager afin de faire cette alternance.
+Bonjour et bienvenue sur mon Github!Je m'appelle Fabien et je suis un développeur full-stack junior, utilisant principalement du JS. Je finalisé un bootcamp dev web avec la [Wild Code School](https://www.wildcodeschool.com/fr-FR).
+Je suis à la recherche d'une alternance pour novembre 2024 dans le cadre d'une certification développeur avance JS ou Java. Actuellement en Normandie, acceptant des offres full remote. Je ne suis pas fermé à la possibilité de démenager afin de faire cette alternance.
 
 ## Connect
 
